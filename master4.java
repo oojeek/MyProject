@@ -5,4 +5,5 @@ public static void main()
 	System.out.println("Stage!!!");
 	System.out.println("Working!!!");
 	System.out.println("project working");
+	System.out.println("Project1 working");
 }
